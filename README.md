@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @atit1133
+- 👋 Hi, I’m Atit
 - 👀 I’m interested in ...Pograming
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning ...JavaScript
 - 💞️ I’m looking to collaborate on ...practice
 - 📫 How to reach me ...
 
